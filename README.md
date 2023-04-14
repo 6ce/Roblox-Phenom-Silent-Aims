@@ -1,3 +1,7 @@
+# All scripts are open source, therefore they're not malicious, don't go claiming they are because of other people skidding off me.
+
+I am the owner of this script, anyone who claims to have created it is lying to you & should not be trusted.
+
 # Usage
 
 All are "X to shoot" (press X on your keyboard to shoot), you'll need either KRNL, Synapse, Or Script-Ware to execute these
