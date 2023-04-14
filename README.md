@@ -15,3 +15,7 @@ For the "Normal Aimbot" & "BounceBot", they'll jump for you when you press X if 
 The "BounceBot" & "TBot" do not work in playground (the "TBot" can be edited to support but I will not help you do it). The "Normal Aimbot" &  "NoJumpBot" should both work though.
 
 Also, all these aimbots are succeptible to the glitch where you cannot shoot unless you rejoin, this is due to the key system in phenom being shitty and getting messed up
+
+# Small Showcase
+
+https://www.youtube.com/watch?v=j1L0a2Dfzps
