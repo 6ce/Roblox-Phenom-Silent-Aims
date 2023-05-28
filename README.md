@@ -2,6 +2,9 @@
 
 I am the owner of this script, anyone who claims to have created it is lying to you & should not be trusted.
 
+# Game Link
+https://www.roblox.com/games/623694595
+
 # Usage
 
 All are "X to shoot" (press X on your keyboard to shoot), you'll need either KRNL, Synapse, Or Script-Ware (Windows & Mac both likely supported) to execute these
